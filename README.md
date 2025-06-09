@@ -20,8 +20,8 @@ I'm a passionate **Full Stack Developer** aiming for **MIT**, currently building
 ---
 
 ### 📫 Let's Connect!
-- Portfolio: [your-portfolio-link](https://portfolio-zeta-gray-vtmny3c354.vercel.app/)
-- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/aadi-khatri-842b51302/)
+- Portfolio: [SammyCodes](https://portfolio-zeta-gray-vtmny3c354.vercel.app/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/aadi-khatri-842b51302/)
 
 ---
 
